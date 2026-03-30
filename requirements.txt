@@ -1,0 +1,2 @@
+# All required packages are pre-installed in the evaluation container:
+# pandas, numpy, scikit-learn, lightgbm, joblib
